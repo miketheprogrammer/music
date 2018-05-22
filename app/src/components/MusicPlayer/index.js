@@ -15,7 +15,7 @@ class MusicPlayer extends Component {
   render() {
     return (
       <div className="MusicPlayer">
-        <h2>Sublime - 40oz to Freedom</h2>
+        <h2>Distorted Soul - Cloud Dance.mp3</h2>
         <audio
             ref="audio"
             autoPlay={true}
